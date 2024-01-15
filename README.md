@@ -1,3 +1,5 @@
+[🔃 (go-to 🇧🇷) Versão em Português](https://github.com/camimq/fiap_wine_data_viz/blob/main/README_pt-BR.md)
+
 # 👩‍💻 DataViz Challenge ![Badge](https://img.shields.io/static/v1?label=license&message=MIT&color=0677B9)
 
 > Individual activity of the Data Visualization discipline of the postgraduate course in Data Analytics at FIAP.
@@ -13,24 +15,24 @@ Set of frequency distribution graphs for the numeric variables in the dataset.
 
 ##### Distribution of Volatile Acidity x Wine Quality
 
-![Graph of Distribution of Volatile Acidity x Wine Quality](plots/plots/dist_acidez_volatil_x_qualidade.png)
+![Graph of Distribution of Volatile Acidity x Wine Quality](plots/dist_acidez_volatil_x_qualidade.png)
 
-![Alcohol Content x Quality Chart](plots/plots/dist_teor_alcoolico_x_qualidade.png.png)
+![Alcohol Content x Quality Chart](plots/dist_teor_alcoolico_x_qualidade.png.png)
 
 
 ##### Distribution of Alcoholic Content x Wine Quality
 
 ##### Relation | Acidity x Wine Quality
 
-![Acidity x Wine Quality Relationship Chart](plots/plots/rel_acidez_x_qualidade.png)
+![Acidity x Wine Quality Relationship Chart](plots/rel_acidez_x_qualidade.png)
 
 ##### Relation Acidez x Teor Alcoólico
 
-![Acidity x Alcohol Content Relationship Chart](plots/plots/rel_acidez_x_teor.png)
+![Acidity x Alcohol Content Relationship Chart](plots/rel_acidez_x_teor.png)
 
 ##### Relaçtion | Alcohol Content x Wine Quality
 
-![Chart of the Relationship of Alcoholic Content x Wine Quality](plots/plots/rel_teor_x_qualidade.png)
+![Chart of the Relationship of Alcoholic Content x Wine Quality](plots/rel_teor_x_qualidade.png)
 
 ##
 
