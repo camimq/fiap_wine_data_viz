@@ -27,7 +27,7 @@ Set of frequency distribution graphs for the numeric variables in the dataset.
 
 ##### Relation Acidez x Teor Alcoólico
 
-![Acidity x Alcohol Content Relationship Chart](plots/rel_acidez_x_teor.png)
+![Acidity x Alcohol Content Relationship Chart](plots/rel_acidez_x_teor_alcoolico.png)
 
 ##### Relaçtion | Alcohol Content x Wine Quality
 
