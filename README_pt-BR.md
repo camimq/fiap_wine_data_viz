@@ -11,26 +11,16 @@ Utilizaremos parte do código feito no [primeiro desafio](https://github.com/cam
 ### Trazer os gráficos feitos na análise anterior mas, dessa vez, utilizando a biblioteca Seaborn, melhorando o visual dos gráficos.
 
 #### Gráficos de Distribuição
-Conjunto de gráficos de distribuição de frequência para as variáveis numéricas do dataset.
-
-##### Distribuição da Acidez Volátil x Qualidade do Vinho
 
 ![Gráfico de Distribuição da Acidez Volátil x Qualidade](plots/plots/dist_acidez_volatil_x_qualidade.png)
 
 ![Gráfico do Teor Alcoólico x Qualidade](plots/plots/dist_teor_alcoolico_x_qualidade.png.png)
 
-
-##### Distribuição do Teor Alcoólico x Qualidade do Vinho
-
-##### Relação Acidez x Qualidade do Vinho
+#### Gráficos de Relação
 
 ![Gráfico da Relação de Acidez x Qualidade do Vinho](plots/plots/rel_acidez_x_qualidade.png)
 
-##### Relação Acidez x Teor Alcoólico
-
 ![Gráfico da Relação de Acidez x Teor Alcoólico](plots/plots/rel_acidez_x_teor.png)
-
-##### Relação Teor Alcoólico x Qualidade do Vinho
 
 ![Gráfico da Relação do Teor Alcoólico x Qualidade do Vinho](plots/plots/rel_teor_x_qualidade.png)
 

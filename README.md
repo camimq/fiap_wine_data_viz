@@ -11,25 +11,16 @@ We will use part of the code made in the [first challenge](https://github.com/ca
 ### Bring the graphs made in the previous analysis but, this time, using the Seaborn library, improving the look of the graphs.
 
 #### Distribution Charts
-Set of frequency distribution graphs for the numeric variables in the dataset.
-
-##### Distribution of Volatile Acidity x Wine Quality
 
 ![Graph of Distribution of Volatile Acidity x Wine Quality](plots/dist_acidez_volatil_x_qualidade.png)
 
-##### Distribution of Alcoholic Content x Wine Quality
-
 ![Alcohol Content x Quality Chart](plots/dist_teor_alcoolico_x_qualidade.png)
 
-##### Relation | Acidity x Wine Quality
+#### Relational Charts
 
 ![Acidity x Wine Quality Relationship Chart](plots/rel_acidez_x_qualidade.png)
 
-##### Relation Acidez x Teor Alcoólico
-
 ![Acidity x Alcohol Content Relationship Chart](plots/rel_acidez_x_teor_alcoolico.png)
-
-##### Relaçtion | Alcohol Content x Wine Quality
 
 ![Chart of the Relationship of Alcoholic Content x Wine Quality](plots/rel_teor_x_qualidade.png)
 
