@@ -1,17 +1,39 @@
-# Desafio Visualização de Dados
+# 👩‍💻 DataViz Challenge ![Badge](https://img.shields.io/static/v1?label=license&message=MIT&color=0677B9)
 
-> Atividade individual da disciplina de Visualização de Dados do curso de pós-graduação da em Data Analytics da FIAP.
+> Individual activity of the Data Visualization discipline of the postgraduate course in Data Analytics at FIAP.
 
 ## Proposta
 
-A distribuidora de vinhos **FIAPWine** decidiu expandir seus horizontes e agora está importando vinhos tintos e brancos portugueses, mais especificamente a marca "Vinho Verde", que fará sua carta de vinhos se tornar mais vasta aqui no Brasil.
+We will use part of the code made in the [first challenge](https://github.com/camimq/fiap_wine) to perform the tasks below:
 
-Anteriormente, você foi designado à fazer uma análise exploratória inicial nos vinhos utilizando apenas o Pandas e o Matplotlib com métricas simples, certo?
+### Bring the graphs made in the previous analysis but, this time, using the Seaborn library, improving the look of the graphs.
 
-Agora, o Head de dados te solicitou que além dos 5 pontos anteriores, você enriqueça suas análises ajustando melhor seus gráficos, e dessa vez com a biblioteca Seaborn, por ter estilos visuais melhores!
+#### Distribution Charts
+Set of frequency distribution graphs for the numeric variables in the dataset.
 
-Contudo, um desafio extra foi lançado: além da melhoria estética, ele o desafiou a traer algum dado complementar de uma tabela, site e etc, que forneça dados para a melhoria da sua análise (dados territoriais, dados socioeconômico e assim por diante). Isso deve ser apresentado graficamente também!
+##### Distribution of Volatile Acidity x Wine Quality
 
-Está pronto para aprofundar cada vez mais a sua análise exploratória?
+![Graph of Distribution of Volatile Acidity x Wine Quality](plots/plots/dist_acidez_volatil_x_qualidade.png)
 
-Vamos em frente!
+![Alcohol Content x Quality Chart](plots/plots/dist_teor_alcoolico_x_qualidade.png.png)
+
+
+##### Distribution of Alcoholic Content x Wine Quality
+
+##### Relation | Acidity x Wine Quality
+
+![Acidity x Wine Quality Relationship Chart](plots/plots/rel_acidez_x_qualidade.png)
+
+##### Relation Acidez x Teor Alcoólico
+
+![Acidity x Alcohol Content Relationship Chart](plots/plots/rel_acidez_x_teor.png)
+
+##### Relaçtion | Alcohol Content x Wine Quality
+
+![Chart of the Relationship of Alcoholic Content x Wine Quality](plots/plots/rel_teor_x_qualidade.png)
+
+##
+
+Made with ❤️ by Cami Queiroz 🎙 Let´s Talk!
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/camilaqueiroz)  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&https://medium.com/@camimq/)
