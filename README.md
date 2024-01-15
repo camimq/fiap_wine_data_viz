@@ -19,7 +19,7 @@ Set of frequency distribution graphs for the numeric variables in the dataset.
 
 ##### Distribution of Alcoholic Content x Wine Quality
 
-![Alcohol Content x Quality Chart](plots/dist_teor_alcoolico_x_qualidade.png.png)
+![Alcohol Content x Quality Chart](plots/dist_teor_alcoolico_x_qualidade.png)
 
 ##### Relation | Acidity x Wine Quality
 
